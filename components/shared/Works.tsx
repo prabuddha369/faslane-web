@@ -13,6 +13,7 @@ const Works = () => {
     const images = [
         '/cg_logo.png',
         '/pc_logo.png',
+        '/bm_logo.png',
     ]
     return (
         <div className='bg-[#F5F5F5] rounded-3xl mx-5 my-10 p-10'>

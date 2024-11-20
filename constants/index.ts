@@ -170,4 +170,53 @@ export const pc = [
     ],
     conclusipn:'Our project display website stands as a unique and indispensable resource for creators, learners, and enthusiasts. Dive into a world of innovation, education, and collaboration—choose our platform for an unparalleled learning experience.'
   }
-]
+];
+
+export const bm = [
+  { 
+    img: '/bom.png',
+    title: 'Because of Maths',
+    description: 'A personalized educational platform designed for Animesh Pradhan to promote his brand, host exams, manage attendance, and monitor students\' performance efficiently.',
+    key_features: [
+      {
+        title: '1. Exam Hosting',
+        description: '- Seamlessly host exams with automated grading and result generation. The platform supports various question types, making the examination process comprehensive and flexible.'
+      },
+      {
+        title: '2. Attendance Management',
+        description: '- Track student attendance efficiently with our integrated attendance system. The platform ensures accurate, real-time data logging to keep records transparent and up-to-date.'
+      },
+      {
+        title: '3. Brand Promotion',
+        description: '- Showcase Animesh Pradhan\'s expertise in mathematics through a professional and visually appealing website. The platform emphasizes his unique teaching methodology and success stories.'
+      },
+      {
+        title: '4. Student Performance Analytics',
+        description: '- Gain insights into students\' progress with detailed performance reports. The analytics feature helps identify strengths and areas for improvement, empowering personalized learning strategies.'
+      },
+      {
+        title: '5. User-Friendly Design',
+        description: '- The platform boasts a sleek and intuitive interface, ensuring ease of use for both students and administrators. Navigation and feature accessibility are prioritized for an enhanced user experience.'
+      },
+    ],
+    deliverables: [
+      {
+        title: '- Comprehensive Exam Management System',
+        description: '- Simplify the examination process with automated grading, flexible exam formats, and secure hosting.'
+      },
+      {
+        title: '- Efficient Attendance Tracker',
+        description: '- Keep track of attendance with an integrated system designed for accuracy and ease.'
+      },
+      {
+        title: '- Professional Branding',
+        description: '- A visually captivating and professionally designed website that highlights Animesh Pradhan\'s unique teaching expertise and achievements.'
+      },
+      {
+        title: '- Performance Monitoring Tools',
+        description: '- Robust analytics for tracking and enhancing student performance.'
+      }
+    ],
+    conclusion: 'The Because of Maths platform serves as an all-in-one solution for Animesh Pradhan, streamlining exam management, attendance tracking, and student performance monitoring, while also establishing his brand as a leader in mathematics education. A seamless blend of functionality and design ensures the platform stands out as a premier educational resource.'
+  }
+];
